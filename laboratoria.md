@@ -21,7 +21,7 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 1. Kowalska, Joanna
 1. Krajnik, Martyna
 1. Krzychowiec, Rafał
-1. Kupniewski, Rafał
+1. Kupniewski, Rafał http://rkupniewski.github.io https://github.com/rkupniewski/Tech_I 
 1. Lipiński, Michał
 1. Mrotek, Remigiusz
 1. Piątek, Mariusz
